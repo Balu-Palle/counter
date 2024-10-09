@@ -1,0 +1,21 @@
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.display{
+  text-align: center;
+}
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid black;
+  border-radius: 5px;
+  color:antiquewhite;
+  background-color: black;
+
+
+}
+
