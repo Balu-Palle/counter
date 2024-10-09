@@ -1,2 +1,2 @@
 # counter
-simple counter using hooks
+simple counter using  like useState and useCallback hooks
